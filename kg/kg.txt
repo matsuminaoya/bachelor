@@ -1,0 +1,8 @@
+従来プログラム並びにデータセットは容量の問題より以下からアクセスされたい
+
+従来プログラム
+https://github.com/semlab/tracer
+https://github.com/semlab/triplex
+
+データセット
+https://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
